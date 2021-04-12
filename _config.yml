@@ -1,6 +1,7 @@
 theme: jekyll-theme-modernist
 title: Alekha.Net
 description: movement for cognitive introspection
+show_downloads: false
 footer:
   links:
     - label: "Twitter"
