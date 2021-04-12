@@ -2,9 +2,9 @@ theme: jekyll-theme-modernist
 title: Alekha.Net
 description: movement for cognitive introspection
 show_downloads: false
-footer: yes
 footer_url: "https://github.com/alekhanetweb"
 footer_text: "Copyright Alekha.Net team"
+copyright  : © 2021 Alekha.Net All Rights Reserved
 footer:
   links:
     - label: "Twitter"
