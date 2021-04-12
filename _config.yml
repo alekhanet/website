@@ -1,18 +1,23 @@
 theme: jekyll-theme-modernist
 title: Alekha.Net
 description: movement for cognitive introspection
-# show_downloads: false
-# footer_url: "https://github.com/alekhanetweb"
-# footer_text: "Copyright Alekha.Net team"
 copyright  : © 2021 Alekha.Net All Rights Reserved
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/alekhanetweb/website"
+
+nav:
+ - name: Home
+   link: /
+ - name: About
+   link: /
+   
+   
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/alekhanetweb/website"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
@@ -24,3 +29,7 @@ nav:
    link: /
 #  - name: En
 #    link: /about/
+
+# copyright  : © 2021 jasperVincent All Rights Reserved
+# theme: jekyll-theme-modernist
+
