@@ -1,10 +1,17 @@
-## Alekha.Net - movement for cognitive introspection
+## Alekha.Net - mobile-first, knowledge base on top of plain text Markdown and remote sync 
 
-Think Del.icio.us meets RoamResearch
+movement for cognitive introspection - Think Del.icio.us meets note taking.
+Alekha.Net - mobile-first, knowledge base on top of plain text Markdown and remote sync 
+
 
 ### Instagram for Knowledge
 
 What is a social paradigms when you begin sharing knowledge. Actually, the better question is - what is the atomicity of knowledge that can be shared ? Is it a page, a block...a tag ?
+
+Most knowledge is not authored. It is browsed, saved, discussed, debated. That is why Alekha is envisioned as a bookmarking tool that downloads and annotates content. 
+Use the app to save tweets, threads, links...literally anything. You will magically see the full content saved to your inbox as annotated markdown. Which you can now slice and dice and share.
+
+This is the future of note taking.
 
 What is the **global addressing scheme** (think Twitter) when you lookup knowledge ?
 
