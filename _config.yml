@@ -6,8 +6,8 @@ copyright: © 2021 Alekha.Net All Rights Reserved
 nav:
  - name: Home
    link: /
- - name: About
-   link: /
+ - name: Download app
+   link: https://play.google.com/store/apps/details?id=com.alekha.net&hl=en_IN&gl=US
    
    
 footer:
@@ -21,6 +21,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Download App"
+      icon: "fab fa-fw fa-download"
+      url: "https://play.google.com/store/apps/details?id=com.alekha.net"
 
 # copyright  : © 2021 jasperVincent All Rights Reserved
 # theme: jekyll-theme-modernist
