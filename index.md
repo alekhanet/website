@@ -2,7 +2,9 @@
 
 Alekha is a movement for cognitive introspection - Think Del.icio.us meets note taking.
 
-It's a mobile-first, knowledge base on top of plain text Markdown and remote sync 
+It's a mobile-first, knowledge base on top of plain text Markdown and remote sync. 
+
+Download [https://play.google.com/store/apps/details?id=com.alekha.net&hl=en_IN&gl=US](https://play.google.com/store/apps/details?id=com.alekha.net) -  
 
 
 ### Instagram for Knowledge
